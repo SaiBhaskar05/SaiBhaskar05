@@ -4,10 +4,10 @@
 💞️ I’m looking to collaborate on web development projects, particularly those that involve front-end or full-stack work.  
 📫 How to reach me:  
    - [LinkedIn](https://www.linkedin.com/in/sai-bhaskar-nanduri/)  
-   - [Instagram](https://instagram.com/n_saibhaskar)  
+   - [Instagram](https://instagram.com/n_saibhaskar) 
    
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love experimenting with new technologies and finding creative ways to solve problems! 
+⚡ I love experimenting with new technologies and finding creative ways to solve problems! 
 
 
 <!---
